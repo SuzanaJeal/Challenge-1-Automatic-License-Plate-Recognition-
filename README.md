@@ -1,3 +1,7 @@
+Authors and co-creators:
+Suzana Jeal
+Valentina Indrei 
+
 🧠 Challenge #1 – Automatic License Plate Recognition (ALPR)
 
 This project was developed as part of the Vision & Learning course at the Universitat Autònoma de Barcelona.
