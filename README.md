@@ -1,5 +1,5 @@
 Authors and co-creators:
-Suzana Jeal
+Suzana Jeal and
 Valentina Indrei 
 
 🧠 Challenge #1 – Automatic License Plate Recognition (ALPR)
