@@ -1,4 +1,4 @@
-Authors and co-creators:
+Authors and Co-creators:
 Suzana Jeal and
 Valentina Indrei 
 
